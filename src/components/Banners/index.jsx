@@ -55,7 +55,7 @@ const CarrosselContainer = styled.ul`
 const CarrouselItem = styled.li`
     width: 100vw;
     height: 100%;
-    background-color: aqua;
+    background-color: #ff7700;
     display: flex;
     justify-content: center;
     align-items: center;
