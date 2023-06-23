@@ -34,7 +34,7 @@ const Carrossel = styled.div`
 const CarrosselContainer = styled.ul`
     width: calc(100vw * 4);
     height: 550px;
-    background-color: red;
+    background-color: #c72020;
     display: flex;
     position: relative;
     transition: all 300ms ease;
